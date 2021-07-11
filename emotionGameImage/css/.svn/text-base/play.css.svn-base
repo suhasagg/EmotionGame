@@ -1,0 +1,155 @@
+body {
+	background: url("../image/background-tile.jpg") repeat transparent;
+}
+#content
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#header {
+    height: 120px;
+	width: 660px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#title {
+    font-family: candara;
+    font-size: 60px;
+    font-weight: bold;
+    clear: both;
+}
+#title #left
+{
+   color: white;
+}
+
+#title #right
+{
+	color: white;
+}
+
+#title center {
+    width: 60px;
+	height: 75px;
+    float: left;
+}
+
+#gameimg{
+	max-width: 500px;
+	max-height: 600px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#main {
+	border-top: 1px dotted gray;
+	padding-top: 20px;
+}
+#gameleft {
+    width: 250px;
+	float: left;
+	font-family: Arial;
+}
+#gamecenter{
+	text-align:center;
+	width: 700px;
+	float: left;
+}
+
+#gameright{
+	width: 150px;
+	float: left;
+	}
+#main h1 {
+    font-size: 22px;
+    font-family: verdana;
+    border-bottom: dotted 1px;
+    color: #266646;
+}
+.button{
+	background:#266646; 
+	width:80px;
+	height:30px;
+	color:white; 
+	font-weight:bold; 
+	-webkit-box-shadow: inset 0px 0px 1px #266646; 
+	-moz-box-shadow:inset 0px 0px 1px #266646;
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+	border-color: #266646;
+	text-align:center; 
+	text-shadow:0 0 1px white;
+}
+#labelbox{
+	height:30px;
+	-webkit-box-shadow: inset 0px 0px 1px #266646; 
+	-moz-box-shadow:inset 0px 0px 1px #266646;
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px; 
+}
+
+#notify{
+	color:red;
+	font-size: 12px;;
+}
+
+#labelbox{
+	width: 300px;
+}
+#footer {
+    height: 30px;
+    clear: both;
+}
+
+.dg {
+    background-color: #225A39;
+}
+.lg {
+    background-color: #5C9446;
+}
+.lb {
+    background-color: #64CDA1;
+}
+.lr {
+    background-color: #5AB9BF;
+}
+.ly {
+    background-color: #99CC99;
+}
+.lp {
+    background-color: #666600;
+}
+.lo
+{
+	background-color: #9A9DA2;
+}
+
+br {
+	clear: both;
+}
+
+.cntSeparator {
+	font-size: 54px;
+	margin: 10px 7px;
+	color: #000;
+}
+
+.desc {
+	margin: 7px 3px;
+}
+
+.desc div {
+	float: left;
+	font-family: Arial;
+	width: 70px;
+	margin-right: 65px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000;
+}
+
+#time {
+	overflow: hiden;
+}

@@ -1,0 +1,35 @@
+body {
+	background-color: white;
+}
+
+div {
+	margin-top: 0.5em;
+}
+
+.info {
+	padding-left: 160px;
+}
+strong {
+	display: inline-block;
+	width: 11em;
+	text-align: center;
+}
+
+.photo {
+	margin-bottom: 3em;
+	border-bottom: 1px solid #5c9446;
+}
+
+.name {
+	clear: left;
+}
+
+.name img {
+	width: 200px;
+	max-height: 150px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 3em;
+}
+
+/* your additional styles go here */
