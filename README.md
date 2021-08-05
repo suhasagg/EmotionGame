@@ -11,7 +11,7 @@ Feature Set -
 1)Feeds/Media selection in game based on User Persona
 
 
-2)Color customisation of creatives
+2)Color customisation of creatives/media
 
 We can make color recommendations for the media based on color persona
 Our color affinity modules takes into account lot of parameters like segment, demographic affinities.
